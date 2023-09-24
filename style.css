@@ -1,0 +1,44 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color: #8EC5FC;
+    background: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
+#clock {
+  width: 150px;
+  height: 40px;
+  background-color: brown;
+  margin-top: 60px;
+  margin-left: 120px;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #00dbde;
+  background: linear-gradient(90deg, #00dbde 0%, #fc00ff 100%);
+  cursor: pointer;
+}
+span {
+  margin-top: 25px;
+  font-size: 30px;
+  color: black;
+}
+.center {
+  width: 50%;
+  margin-top: 200px;
+  margin-left: 37%;
+  border: 2px solid rgb(248, 248, 248);
+  width: 400px;
+  height: 250px;
+  background: linear-gradient(180deg, #ffffff 0%, #6284ff 50%, #ff0000 100%);
+  border-radius: 8px;
+}
+.banner {
+  margin-top: 25px;
+  padding-left: 90px;
+  
+}
